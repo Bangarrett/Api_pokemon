@@ -1,3 +1,3 @@
 # Pokeapi
-![Pokemon (1)](https://github.com/Bangarrett/Bangarrett/assets/126791771/img/pokeball.png)
+![Pokemon (1)](img/pokeball.png)
 
